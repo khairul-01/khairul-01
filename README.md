@@ -4,9 +4,14 @@
 
 To be a competent ICT Engineer by exploring my academic knowledge for the sustainable competitive advantage of the employer.
 
-Skills: Python, C++, JAVA, C, SQL, MATLAB, Cadence, Git, Arduino, Multisim
+#### Skills:
+Web Development: Reac.js, Node.jd, Express.js, React router, tailwind CSS, Daisy UI, HTML-5, CSS-3.
+Database: MongoDB, SQL, Firebase(for Authentication).
+Deployment: Vercel(for backend), Firebase(for frontend).
+Programming Language: JavaScript, Python, C++, JAVA, C.
+Software and Hardware: MATLAB, Cadence, Git, Arduino, Multisim, MS Office, Photoshop, Illustrator.
 
-- 💬 Ask me about Python, Java, C++, C, MATLAB 
+- 💬 Ask me about JavaScript, React, React Router, Firebase, Python, Java, C++, C, MATLAB 
 - 📫 How to reach me: khairul431743@gmail.com 
 
 
