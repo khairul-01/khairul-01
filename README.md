@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux, Node-Mongo Crash Course**
 
-- 👨‍💻 All of my projects are available at [https://khairul-alam-portfolio.web.app](https://khairul-alam-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://frolicking-cactus-0675d7.netlify.app](https://frolicking-cactus-0675d7.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, Firebase, MongoDB**
 
